@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1590397094 source:d:\programcodes\bird\main.cpp
+	<iostream>
+	<graphics.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1592557576 source:d:\programcodes\plane_v1.0\main.cpp
+	<iostream>
+	<graphics.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
